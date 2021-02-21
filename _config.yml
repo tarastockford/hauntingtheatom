@@ -1,5 +1,9 @@
-theme: minima
 title: Haunting the Atom
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: jekyll/minima
 
 minima:
   skin: dark
