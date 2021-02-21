@@ -1,4 +1,5 @@
 ---
+layout: home
 ---
 
 ### The Hopley Moor Incident
