@@ -17,3 +17,9 @@ minima:
     youtube_channel: UCdUo6OgsREERuIbCqLd9TOg
     youtube_channel_name: Haunting The Atom
     bandcamp: hauntingtheatom
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/haunting-the-atom-social.jpg
