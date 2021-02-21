@@ -7,3 +7,4 @@ remote_theme: jekyll/minima
 
 minima:
   skin: dark
+  date_format: "%e %B %Y"
