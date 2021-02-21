@@ -8,3 +8,8 @@ remote_theme: jekyll/minima
 minima:
   skin: dark
   date_format: "%e %B %Y"
+  social_links:
+    facebook: hauntingtheatom
+    twitter: hauntingtheatom
+    youtube_channel: UCdUo6OgsREERuIbCqLd9TOg
+    youtube_channel_name: Haunting The Atom
