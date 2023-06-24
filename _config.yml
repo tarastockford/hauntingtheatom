@@ -9,7 +9,7 @@ masthead: /assets/images/haunting-the-atom-masthead.png
 plugins:
   - jekyll-remote-theme
 
-remote_theme: jekyll/minima
+remote_theme: jekyll/minima@v2.5.1
 
 minima:
   skin: dark
