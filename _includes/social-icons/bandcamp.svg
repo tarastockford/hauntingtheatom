@@ -1,0 +1,82 @@
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="M 2560,0 C 3973.85,0 5120,1146.15 5120,2560 5120,3973.85 3973.85,5120 2560,5120 1146.15,5120 0,3973.85 0,2560 0,1146.15 1146.15,0 2560,0 Z"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath24">
+      <path
+         d="M 0,0 H 5120 V 5120 H 0 Z"
+         id="path22" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath34">
+      <path
+         d="M 3057.78,1754.95 H 1189.97 l 872.23,1610.1 h 1867.83 l -872.25,-1610.1"
+         clip-rule="evenodd"
+         id="path32" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath40">
+      <path
+         d="M 0,0 H 5120 V 5120 H 0 Z"
+         id="path38" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="ink_ext_XXXXXX"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,682.66667)">
+    <g
+       id="g10"
+       transform="scale(0.1)">
+      <g
+         id="g12">
+        <g
+           id="g14"
+           clip-path="url(#clipPath18)">
+          <g
+             id="g20"
+             clip-path="url(#clipPath24)">
+            <path
+               d="M 2560,0 C 3973.85,0 5120,1146.15 5120,2560 5120,3973.85 3973.85,5120 2560,5120 1146.15,5120 0,3973.85 0,2560 0,1146.15 1146.15,0 2560,0 Z"
+               style="fill:none;stroke:#979797;stroke-width:320;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path26" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g28">
+        <g
+           id="g30"
+           clip-path="url(#clipPath34)">
+          <g
+             id="g36"
+             clip-path="url(#clipPath40)">
+            <path
+               d="m 1139.97,1704.95 h 2840.06 v 1710.1 H 1139.97 Z"
+               style="fill:#a5a5a5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="path42" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
