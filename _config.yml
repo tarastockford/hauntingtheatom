@@ -19,6 +19,7 @@ minima:
     - { platform: twitter,  user_url: "https://twitter.com/hauntingtheatom" }
     - { platform: instagram,  user_url: "https://www.instagram.com/haunting.the.atom/" }
     - { platform: youtube,  user_url: "https://www.youtube.com/@hauntingtheatom" }
+    - { platform: bandcamp,  user_url: "https://hauntingtheatom.bandcamp.com/" }
 
 defaults:
   - scope:
