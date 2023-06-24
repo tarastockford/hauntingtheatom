@@ -15,10 +15,10 @@ minima:
   skin: dark
   date_format: "%e %B %Y"
   social_links:
-    { platform: facebook,  user_url: "https://www.facebook.com/hauntingtheatom" }
-    { platform: twitter,  user_url: "https://twitter.com/hauntingtheatom" }
-    { platform: instagram,  user_url: "https://www.instagram.com/haunting.the.atom/" }
-    { platform: youtube,  user_url: "https://www.youtube.com/@hauntingtheatom" }
+    - { platform: facebook,  user_url: "https://www.facebook.com/hauntingtheatom" }
+    - { platform: twitter,  user_url: "https://twitter.com/hauntingtheatom" }
+    - { platform: instagram,  user_url: "https://www.instagram.com/haunting.the.atom/" }
+    - { platform: youtube,  user_url: "https://www.youtube.com/@hauntingtheatom" }
 
 defaults:
   - scope:
