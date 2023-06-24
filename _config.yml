@@ -9,18 +9,16 @@ masthead: /assets/images/haunting-the-atom-masthead.png
 plugins:
   - jekyll-remote-theme
 
-remote_theme: jekyll/minima@v2.5.1
+remote_theme: jekyll/minima
 
 minima:
   skin: dark
   date_format: "%e %B %Y"
   social_links:
-    facebook: hauntingtheatom
-    twitter: hauntingtheatom
-    instagram: haunting.the.atom
-    youtube_channel: UCdUo6OgsREERuIbCqLd9TOg
-    youtube_channel_name: Haunting The Atom
-    bandcamp: hauntingtheatom
+    { platform: facebook,  user_url: "https://www.facebook.com/hauntingtheatom" }
+    { platform: twitter,  user_url: "https://twitter.com/hauntingtheatom" }
+    { platform: instagram,  user_url: "https://www.instagram.com/haunting.the.atom/" }
+    { platform: youtube,  user_url: "https://www.youtube.com/@hauntingtheatom" }
 
 defaults:
   - scope:
