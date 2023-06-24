@@ -15,11 +15,11 @@ minima:
   skin: dark
   date_format: "%e %B %Y"
   social_links:
-    - { platform: facebook,  user_url: "https://www.facebook.com/hauntingtheatom" }
-    - { platform: twitter,  user_url: "https://twitter.com/hauntingtheatom" }
-    - { platform: instagram,  user_url: "https://www.instagram.com/haunting.the.atom/" }
-    - { platform: youtube,  user_url: "https://www.youtube.com/@hauntingtheatom" }
-    - { platform: bandcamp,  user_url: "https://hauntingtheatom.bandcamp.com/" }
+    - { platform: facebook,  user_url: "https://www.facebook.com/hauntingtheatom",  title: "Facebook" }
+    - { platform: twitter,  user_url: "https://twitter.com/hauntingtheatom",  title: "Twitter" }
+    - { platform: instagram,  user_url: "https://www.instagram.com/haunting.the.atom/",  title: "Instagram" }
+    - { platform: youtube,  user_url: "https://www.youtube.com/@hauntingtheatom",  title: "YouTube" }
+    - { platform: bandcamp,  user_url: "https://hauntingtheatom.bandcamp.com/",  title: "Bandcamp" }
 
 defaults:
   - scope:
